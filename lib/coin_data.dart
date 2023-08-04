@@ -30,7 +30,7 @@ const List<String> cryptoList = [
   'LTC',
 ];
 const coinAPIURL = 'https://rest.coinapi.io/v1/exchangerate';
-const apiKey = "CA7ED7E9-69FA-4C8A-95C6-BE12D3398CC7";
+const apiKey = "YOUR-API-KEY";
 class CoinData {
   Future getCoindData(String currency) async{
     Map<String, String> cryptoPrices = {};
