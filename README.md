@@ -2,15 +2,19 @@
 
 A new Flutter project.
 
-## Getting Started
+Crypto prices in each currency with API from the website
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+https://www.coinapi.io/market-data-api/pricing
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+Get [BTC , ETH, LTC]
+
+in many currencies 
+
+
+
+
+
+![crypto](https://github.com/Ahmed336-cell/bitcion_tricker_flutterapp/assets/65620946/ddf0dca9-f7cb-4077-995a-8f7704ddf9da)
